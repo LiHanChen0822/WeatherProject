@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherProject</string>
+    <string name="email_title">Email</string>
+    <string name="email_hint">example@gmail.com</string>
+    <string name="email_format_error_message">Invalid Email Format</string>
+    <string name="email_empty_error_message">Email Required</string>
+    <string name="password_title">Password</string>
+    <string name="password_hint">******</string>
+    <string name="password_length_error_message">Password length must be at least 8 characters</string>
+    <string name="password_empty_error_message">Password Required</string>
+    <string name="login_button_text">Login</string>
+    <string name="weather_title">Taiwan 36 Hours Weather</string>
+    <string name="weather_api_failed_unknown">Unknown Error</string>
+    <string name="weather_retry_button_text">Retry</string>
+</resources>
